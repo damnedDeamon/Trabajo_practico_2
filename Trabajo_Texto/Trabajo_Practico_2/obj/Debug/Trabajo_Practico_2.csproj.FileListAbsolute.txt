@@ -1,0 +1,10 @@
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\bin\Debug\Trabajo_Practico_2.exe.config
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\bin\Debug\Trabajo_Practico_2.exe
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\bin\Debug\Trabajo_Practico_2.pdb
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.csprojAssemblyReference.cache
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.Form1.resources
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.Properties.Resources.resources
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.exe
+C:\Users\Matias\source\repos\Trabajo_Practico_2\Trabajo_Practico_2\obj\Debug\Trabajo_Practico_2.pdb
